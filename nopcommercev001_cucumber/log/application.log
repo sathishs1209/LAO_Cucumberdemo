@@ -1,0 +1,95 @@
+2022-07-13 00:51:53,072 [main] INFO nopcommerce - ********** Browser Launched ***************
+2022-07-13 00:51:55,455 [main] INFO nopcommerce - ********** Opening URL ***************
+2022-07-13 00:52:00,943 [main] INFO nopcommerce - ********** Providing login details ***************
+2022-07-13 00:52:07,121 [main] INFO nopcommerce - ********** Login Process Started ***************
+2022-07-13 00:52:24,903 [main] INFO nopcommerce - ********** Adding new Customer ***************
+2022-07-13 00:52:24,904 [main] INFO nopcommerce - ********** Providing customer details ***************
+2022-07-13 00:52:29,392 [main] INFO nopcommerce - ********** Saving customer data ***************
+2022-07-13 00:52:31,195 [main] INFO nopcommerce - ********** Closing Browser ***************
+2022-07-13 00:52:31,929 [main] INFO nopcommerce - ********** Browser Launched ***************
+2022-07-13 00:52:32,962 [main] INFO nopcommerce - ********** Opening URL ***************
+2022-07-13 00:52:38,407 [main] INFO nopcommerce - ********** Providing login details ***************
+2022-07-13 00:52:44,553 [main] INFO nopcommerce - ********** Login Process Started ***************
+2022-07-13 00:52:56,330 [main] INFO nopcommerce - ********** Searching customer by email id ***************
+2022-07-13 00:52:58,588 [main] INFO nopcommerce - ********** Closing Browser ***************
+2022-07-13 01:21:37,469 [main] INFO nopcommerce - ********** Browser Launched ***************
+2022-07-13 01:21:39,877 [main] INFO nopcommerce - ********** Opening URL ***************
+2022-07-13 01:21:45,424 [main] INFO nopcommerce - ********** Providing login details ***************
+2022-07-13 01:21:51,585 [main] INFO nopcommerce - ********** Login Process Started ***************
+2022-07-13 01:22:07,084 [main] INFO nopcommerce - ********** Adding new Customer ***************
+2022-07-13 01:22:07,085 [main] INFO nopcommerce - ********** Providing customer details ***************
+2022-07-13 01:22:11,595 [main] INFO nopcommerce - ********** Saving customer data ***************
+2022-07-13 01:22:13,839 [main] INFO nopcommerce - ********** Closing Browser ***************
+2022-07-13 01:22:14,571 [main] INFO nopcommerce - ********** Browser Launched ***************
+2022-07-13 01:22:15,781 [main] INFO nopcommerce - ********** Opening URL ***************
+2022-07-13 01:22:21,023 [main] INFO nopcommerce - ********** Providing login details ***************
+2022-07-13 01:22:27,163 [main] INFO nopcommerce - ********** Login Process Started ***************
+2022-07-13 01:22:38,173 [main] INFO nopcommerce - ********** Searching customer by email id ***************
+2022-07-13 01:22:40,416 [main] INFO nopcommerce - ********** Closing Browser ***************
+2022-07-13 01:25:06,720 [main] INFO nopcommerce - ********** Browser Launched ***************
+2022-07-13 01:25:08,900 [main] INFO nopcommerce - ********** Opening URL ***************
+2022-07-13 01:25:14,351 [main] INFO nopcommerce - ********** Providing login details ***************
+2022-07-13 01:25:20,501 [main] INFO nopcommerce - ********** Login Process Started ***************
+2022-07-13 01:25:36,159 [main] INFO nopcommerce - ********** Adding new Customer ***************
+2022-07-13 01:25:36,161 [main] INFO nopcommerce - ********** Providing customer details ***************
+2022-07-13 01:25:41,065 [main] INFO nopcommerce - ********** Saving customer data ***************
+2022-07-13 01:25:43,529 [main] INFO nopcommerce - ********** Closing Browser ***************
+2022-07-13 01:25:44,375 [main] INFO nopcommerce - ********** Browser Launched ***************
+2022-07-13 01:25:45,843 [main] INFO nopcommerce - ********** Opening URL ***************
+2022-07-13 01:25:51,346 [main] INFO nopcommerce - ********** Providing login details ***************
+2022-07-23 23:25:18,376 [main] INFO nopcommerce - ********** Browser Launched ***************
+2022-07-23 23:25:21,076 [main] INFO nopcommerce - ********** Opening URL ***************
+2022-07-23 23:25:26,660 [main] INFO nopcommerce - ********** Providing login details ***************
+2022-07-23 23:25:32,832 [main] INFO nopcommerce - ********** Login Process Started ***************
+2022-07-23 23:25:52,676 [main] INFO nopcommerce - ********** Adding new Customer ***************
+2022-07-23 23:25:52,676 [main] INFO nopcommerce - ********** Providing customer details ***************
+2022-07-23 23:25:57,221 [main] INFO nopcommerce - ********** Saving customer data ***************
+2022-07-23 23:26:01,411 [main] INFO nopcommerce - ********** Closing Browser ***************
+2022-07-23 23:26:02,163 [main] INFO nopcommerce - ********** Browser Launched ***************
+2022-07-23 23:26:03,272 [main] INFO nopcommerce - ********** Opening URL ***************
+2022-07-23 23:26:07,555 [main] INFO nopcommerce - ********** Providing login details ***************
+2022-07-23 23:26:13,717 [main] INFO nopcommerce - ********** Login Process Started ***************
+2022-07-23 23:26:25,761 [main] INFO nopcommerce - ********** Searching customer by email id ***************
+2022-07-23 23:26:27,998 [main] INFO nopcommerce - ********** Closing Browser ***************
+2022-07-26 01:48:11,728 [main] INFO nopcommerce - ********** Browser Launched ***************
+2022-07-26 01:48:14,022 [main] INFO nopcommerce - ********** Opening URL ***************
+2022-07-26 01:48:19,512 [main] INFO nopcommerce - ********** Providing login details ***************
+2022-07-26 01:48:25,680 [main] INFO nopcommerce - ********** Login Process Started ***************
+2022-07-26 01:48:41,445 [main] INFO nopcommerce - ********** Adding new Customer ***************
+2022-07-26 01:48:41,446 [main] INFO nopcommerce - ********** Providing customer details ***************
+2022-07-26 01:48:45,886 [main] INFO nopcommerce - ********** Saving customer data ***************
+2022-07-26 01:48:48,849 [main] INFO nopcommerce - ********** Closing Browser ***************
+2022-07-26 01:48:49,537 [main] INFO nopcommerce - ********** Browser Launched ***************
+2022-07-26 01:48:50,567 [main] INFO nopcommerce - ********** Opening URL ***************
+2022-07-26 01:48:55,959 [main] INFO nopcommerce - ********** Providing login details ***************
+2022-07-26 01:49:02,123 [main] INFO nopcommerce - ********** Login Process Started ***************
+2022-07-26 01:49:13,437 [main] INFO nopcommerce - ********** Searching customer by email id ***************
+2022-07-26 01:49:15,664 [main] INFO nopcommerce - ********** Closing Browser ***************
+2022-07-26 01:57:35,915 [main] INFO nopcommerce - ********** Browser Launched ***************
+2022-07-26 01:57:38,624 [main] INFO nopcommerce - ********** Opening URL ***************
+2022-07-26 01:57:44,166 [main] INFO nopcommerce - ********** Providing login details ***************
+2022-07-26 01:57:50,355 [main] INFO nopcommerce - ********** Login Process Started ***************
+2022-07-26 01:58:08,738 [main] INFO nopcommerce - ********** Adding new Customer ***************
+2022-07-26 01:58:08,739 [main] INFO nopcommerce - ********** Providing customer details ***************
+2022-07-26 01:58:13,685 [main] INFO nopcommerce - ********** Saving customer data ***************
+2022-07-26 01:58:17,883 [main] INFO nopcommerce - ********** Closing Browser ***************
+2022-07-26 01:58:18,613 [main] INFO nopcommerce - ********** Browser Launched ***************
+2022-07-26 01:58:19,708 [main] INFO nopcommerce - ********** Opening URL ***************
+2022-07-26 01:58:24,109 [main] INFO nopcommerce - ********** Providing login details ***************
+2022-07-26 01:58:30,254 [main] INFO nopcommerce - ********** Login Process Started ***************
+2022-07-26 01:58:42,283 [main] INFO nopcommerce - ********** Searching customer by email id ***************
+2022-07-26 01:58:44,576 [main] INFO nopcommerce - ********** Closing Browser ***************
+2022-07-26 15:45:43,283 [main] INFO nopcommerce - ********** Browser Launched ***************
+2022-07-26 15:45:45,561 [main] INFO nopcommerce - ********** Opening URL ***************
+2022-07-26 15:45:51,140 [main] INFO nopcommerce - ********** Providing login details ***************
+2022-07-26 15:45:57,300 [main] INFO nopcommerce - ********** Login Process Started ***************
+2022-07-26 15:46:15,108 [main] INFO nopcommerce - ********** Adding new Customer ***************
+2022-07-26 15:46:15,108 [main] INFO nopcommerce - ********** Providing customer details ***************
+2022-07-26 15:46:19,531 [main] INFO nopcommerce - ********** Saving customer data ***************
+2022-07-26 15:46:22,482 [main] INFO nopcommerce - ********** Closing Browser ***************
+2022-07-26 15:46:23,227 [main] INFO nopcommerce - ********** Browser Launched ***************
+2022-07-26 15:46:24,241 [main] INFO nopcommerce - ********** Opening URL ***************
+2022-07-26 15:46:28,659 [main] INFO nopcommerce - ********** Providing login details ***************
+2022-07-26 15:46:34,794 [main] INFO nopcommerce - ********** Login Process Started ***************
+2022-07-26 15:46:47,400 [main] INFO nopcommerce - ********** Searching customer by email id ***************
+2022-07-26 15:46:49,643 [main] INFO nopcommerce - ********** Closing Browser ***************
