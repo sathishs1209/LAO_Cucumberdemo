@@ -30,6 +30,5 @@ public class HomePage {
 	
 	public void clickTimeOption() {
 		Time.click();
-	}
-	
+	}	
 }

@@ -70,10 +70,10 @@ public class CommonUtils {
 	
 	
 	public void TakeScreenshot() {
-		File Screenshot = ((TakesScreenshot)DriverManager.getDriver()).getScreenshotAs(OutputType.FILE);
-
+		TakesScreenshot Screenshot = ((TakesScreenshot)DriverManager.getDriver());
+		File source = Screenshot.getScreenshotAs(OutputType.FILE);
 			try {
-				FileUtils.copyFile(Screenshot, new File("screenshot.png"));
+				FileUtils.copyFile(source, new File("screenshot.png"));
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();

@@ -16,7 +16,7 @@ public class DriverManager {
 	
 	private static WebDriver driver = null;
 	
-	public static WebDriver getDriver() {
+	public static  WebDriver getDriver() {
 		return driver;
 	}
 	
